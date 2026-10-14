@@ -1,5 +1,5 @@
 # BaiTapThaoLuan
-Lập trình .
+
 Phần A
 <img width="1535" height="815" alt="Ảnh chụp màn hình 2026-10-14 192612" src="https://github.com/user-attachments/assets/e5bb3b4b-1a55-408d-b64d-1797316dc924" />
 Phần B
